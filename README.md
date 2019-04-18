@@ -1,2 +1,3 @@
 # hello-world
-an exercise
+an exercise\n
+make a big circle!
